@@ -10,3 +10,10 @@ html {
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+button{
+  background-color:cornflowerblue
+}
+li{
+  background-color:azure;
+  padding:10px
+}
